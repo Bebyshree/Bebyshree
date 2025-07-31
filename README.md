@@ -5,7 +5,7 @@
 
 ## :woman_technologist: About Me
 - 🎯 **Data Analyst** passionate about transforming raw data into actionable insights  
-- 💻 Skilled in **Advanced Excel, SQL, MySQL, Python (Pandas, NumPy, Matplotlib), Power BI, Tableau, Data Visualization, and ETL**  
+- 💻 Skilled in **Advanced Excel, SQL, MySQL, Python (Pandas, NumPy, Matplotlib), Power BI, Tableau, Data Visualization**  
 - 📊 Experienced in **Business Intelligence dashboards**, **data cleaning**, and **forecasting analytics**  
 - 📈 Interested in **customer segmentation, sales analytics, and supply chain optimization**  
 - 🌱 Currently learning **Machine Learning for Predictive Analytics**  
@@ -22,11 +22,11 @@
 ---
 
 ## 📂 Featured Projects
-1. **[Customer-Segmentation-Analysis](https://github.com/Bebyshree/Customer-Segmentation-Analysis)**  
+1. **[Customer-Segmentation-Analysis](https://github.com/Bebyshree/Data-Analyst-Customer-Segmentation-Analysis)**  
    - Performed **RFM analysis** and **K-means clustering** to identify high-value customer segments  
    - Visualized insights in **Tableau**, boosting targeted campaign ROI by 3.5x  
 
-2. **[Data-Analyst-Tableau-Projects](https://github.com/Bebyshree/Data-Analyst-Tableau-Projects)**  
+2. **[Data-Analyst-Tableau-Projects](https://github.com/Bebyshree/Data-Analyst-Tableau-Projects/tree/main/Tableau-Projects)**  
    - Created multiple **interactive dashboards** for marketing, sales, and performance monitoring  
 
 3. **[SQL-PowerBI-Sales-Dashboard](https://github.com/Bebyshree/SQL-PowerBI-Sales-Dashboard)**  
